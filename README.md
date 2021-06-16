@@ -1,31 +1,26 @@
-# Carbon-footprint-analysis-of-minting-an-ERC-721-NFT
+1.# Carbon-footprint-analysis-of-minting-an-ERC-721-NFT
 Carbon footprint analysis of minting an ERC-721 NFT
 
-Immutable X is Making NFTs Carbon Neutral on Ethereum
+2.Immutable X is Making NFTs Carbon Neutral on Ethereum
 Lately, critics have raised concerns that creating and trading NFTs on the Ethereum blockchain will lead to a disproportionate increase in carbon footprint. This issue is tricky and, there’s a lot of misinformation out there. There are three key concepts pertinent to understanding this overheated debate fully, and one solution Immutable is proposing today. 
 
 ‍
 
-The definition of NFTs or "non-fungible tokens,"  are special types of cryptographic tokens which represent a good or asset, covering a wide range of unique tangible and intangible items, from collectible trading cards NFTs (e.g. Gods Unchained), to digital art (e.g. popularized by Beeple and Pranksy), virtual worlds (e.g. Sandbox) and even digital sneakers (e.g. RTFKT Studios). NFTs can be created (aka minted), traded, earned, shared, gamed and collected - on marketplaces, on exchanges or in games. NFTs are interoperable. There’s now real value to users in the form of free-market economies and secondary markets of NFT marketplaces, previously locked in walled gardens or restrictive ecosystems.
+3.The definition of NFTs or "non-fungible tokens,"  are special types of cryptographic tokens which represent a good or asset, covering a wide range of unique tangible and intangible items, from collectible trading cards NFTs (e.g. Gods Unchained), to digital art (e.g. popularized by Beeple and Pranksy), virtual worlds (e.g. Sandbox) and even digital sneakers (e.g. RTFKT Studios). NFTs can be created (aka minted), traded, earned, shared, gamed and collected - on marketplaces, on exchanges or in games. NFTs are interoperable. There’s now real value to users in the form of free-market economies and secondary markets of NFT marketplaces, previously locked in walled gardens or restrictive ecosystems.
 
 ‍
 
-The definition of ‘gas fees’ = the cost of using the Ethereum network. These fees are payments made by end users or applications on Ethereum to compensate miners for the work required to process and validate transactions on the Ethereum blockchain. Ethereum gas fees fluctuate with demand, and have risen sharply, presenting persistent issues that make trading NFTs in a marketplace more expensive for users per trade. At the time of publishing, the average gas fee for one NFT trade on Ethereum was U$36  (22/02/21 high source bitinfo) if a user trades one NFT -- irrespective of whether it's worth $1 or $1,000. Importantly, Ethereum always uses the same carbon foot-print in the short run: your NFT has the same environmental impact irrespective of the gas fee it uses (so lowering it doesn’t help!).
+4.The definition of ‘gas fees’ = the cost of using the Ethereum network. These fees are payments made by end users or applications on Ethereum to compensate miners for the work required to process and validate transactions on the Ethereum blockchain. Ethereum gas fees fluctuate with demand, and have risen sharply, presenting persistent issues that make trading NFTs in a marketplace more expensive for users per trade. At the time of publishing, the average gas fee for one NFT trade on Ethereum was U$36  (22/02/21 high source bitinfo) if a user trades one NFT -- irrespective of whether it's worth $1 or $1,000. Importantly, Ethereum always uses the same carbon foot-print in the short run: your NFT has the same environmental impact irrespective of the gas fee it uses (so lowering it doesn’t help!).
 
 ‍
 
-The definition of ‘Layer 2’ solution.  Layer 2 solutions refer to a popular method of scaling Ethereum while still retaining its security. Some L2s aim at fixing one or more scalability issues within the Ethereum blockchain. Immutable has built a dedicated L2 solution for scaling NFTs on Ethereum called Immutable X (an “exchange protocol”). Immutable X provides transaction scalability (up to 9,000 transactions per second), gas-free NFT trades and creations, and is fundamentally decentralized by relying on Ethereum - as opposed to a sidechain. 
+5.The definition of ‘Layer 2’ solution.  Layer 2 solutions refer to a popular method of scaling Ethereum while still retaining its security. Some L2s aim at fixing one or more scalability issues within the Ethereum blockchain. Immutable has built a dedicated L2 solution for scaling NFTs on Ethereum called Immutable X (an “exchange protocol”). Immutable X provides transaction scalability (up to 9,000 transactions per second), gas-free NFT trades and creations, and is fundamentally decentralized by relying on Ethereum - as opposed to a sidechain. 
 
-‍
-
-Immutable X has created the first carbon-neutral scaling solution for NFTs on Ethereum. 
+‍6. Immutable X has created the first carbon-neutral scaling solution for NFTs on Ethereum. 
 Any NFT that is created or traded on Immutable X is 100% carbon neutral. 
 
+7.How? 
 ‍
-
-How? 
-‍
-
 First, Immutable X itself drastically reduces the gas used per NFT trade or mint, reducing the carbon footprint.
 Fundamentally, Immutable X scales Ethereum by taking up less of the network per NFT mint or trade while still retaining its security. Via zero-knowledge proofs, we take NFT trades or mints which normally occur directly on ethereum, and instead have those ethereum keys sign transactions which we batch into a compressed validity proof, and upload to Ethereum. Less gas = less energy used = less carbon.
 
